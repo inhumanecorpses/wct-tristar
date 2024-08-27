@@ -6,6 +6,8 @@ Don't be so miserable and desperate, pop up the Tristar and take care of your ow
 
 Doesn't matter what you want don't leave fields empty, type in something everywhere.
 
+With V1.1 you need to elevate the script, with elevate.py. Ipv4 Raw socket feature added.
+
 ...and a good song to listen to... : https://youtu.be/6y5na-ox0wg?si=-ywPAPcil0ZKJIvX
 ...and another... : https://youtu.be/IGM3-Cf6wTQ?si=G5vPasNBcyRZZ2pq
 
