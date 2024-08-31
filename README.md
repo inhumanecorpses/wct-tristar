@@ -12,3 +12,6 @@ With V1.1 you need to elevate the script, with elevate.py. Ipv4 Raw socket featu
 ...and another... : https://youtu.be/IGM3-Cf6wTQ?si=G5vPasNBcyRZZ2pq
 
 ...and another... : https://youtu.be/4Gj6V59abDA?si=jBgNus_n1gy67Y9b
+
+
+Good forum to read: https://store.somethingawful.com/index.php
