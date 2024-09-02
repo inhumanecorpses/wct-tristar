@@ -18,3 +18,7 @@ Good forum to read: https://store.somethingawful.com/index.php
 
 Garfield comic book collection:
 https://archive.org/details/garfield-complete
+
+
+Looney tunes collection:
+https://archive.org/details/looney-tunes-classics-public-domain-collection
