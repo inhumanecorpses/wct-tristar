@@ -22,3 +22,7 @@ https://archive.org/details/garfield-complete
 
 Looney tunes collection:
 https://archive.org/details/looney-tunes-classics-public-domain-collection
+
+DC comics collection:
+
+https://archive.org/search?query=Dc+comics+collection
