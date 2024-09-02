@@ -38,3 +38,7 @@ https://archive.org/search?query=Dc+comics+collection
 Marvel comics collection:
 
 https://archive.org/search?query=Marvel+comics+collection
+
+Playstation3 rom collection:
+
+https://archive.org/details/ps3-games
