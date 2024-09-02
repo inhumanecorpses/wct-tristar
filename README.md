@@ -15,3 +15,6 @@ With V1.1 you need to elevate the script, with elevate.py. Ipv4 Raw socket featu
 
 
 Good forum to read: https://store.somethingawful.com/index.php
+
+Garfield comic book collection:
+https://archive.org/details/garfield-complete
