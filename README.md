@@ -34,3 +34,7 @@ https://archive.org/details/looney-tunes-classics-public-domain-collection
 DC comics collection:
 
 https://archive.org/search?query=Dc+comics+collection
+
+Marvel comics collection:
+
+https://archive.org/search?query=Marvel+comics+collection
