@@ -42,3 +42,6 @@ https://archive.org/search?query=Marvel+comics+collection
 Playstation3 rom collection:
 
 https://archive.org/details/ps3-games
+
+
+(Lucky pc config: huanazhi x99 mobo, 32gb ram,  xeon cpu (12core/24thread) gigabyte gtx1060 OC,  orico ssd,  walram ssd,  wd hdd,  sharkoon pc case,  led strip backlight, 1 gigabit network ) 
