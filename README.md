@@ -46,6 +46,8 @@ https://archive.org/details/ps3-games
 
 (Lucky pc config: huanazhi x99 mobo, 32gb ram,  xeon cpu (12core/24thread) gigabyte gtx1060 OC,  orico ssd,  walram ssd,  wd hdd,  sharkoon pc case,  led strip backlight, 1 gigabit network,  windows 11) 
 
-(Lucky pc config 0: asus dual cpu mobo,  1 xeon cpu (6core/12thread) envinda (asus)  amd rx 580, 16gb ecc ram,  wallram ssd,  seagate hdd wd hdd,  ubuntu) 
+(Lucky pc config 0: asus dual cpu mobo,  1 xeon cpu (6core/12thread) envinda (asus)  amd rx 580, 16gb ecc ram,  wallram ssd,  seagate hdd wd hdd, 1 gigabit network,  ubuntu) 
 
 (Lucky phone: Huawei P10)
+
+(Lucky game console: Playstation 3)
