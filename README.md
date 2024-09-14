@@ -44,9 +44,13 @@ Playstation3 rom collection:
 https://archive.org/details/ps3-games
 
 
-(Lucky pc config: huanazhi x99 mobo, 32gb ddr4 ram 2133mhz,  xeon cpu (12core/24thread) 3.3 ghz max (all core load 2.9ghz max) gigabyte nvidia gtx1060 OC 6gb VRAM,  orico nvme ssd,  walram ssd,  wd hdd,  sharkoon pc case,  led strip backlight, 1 gigabit network,  windows 11, 850W PSU) 
 
 (Lucky pc config 0: asus dual cpu mobo,  1 xeon cpu (6core/12thread) 3.4ghz max all core,  envinda (asus)  amd rx 580 8gb VRAM, 16gb ddr3 ecc ram 1333mhz,  wallram ssd,  seagate hdd wd hdd, deepcool pc case,  1 gigabit network,  ubuntu,  600W PSU) 
+
+(Lucky pc config: huanazhi x99 mobo, 32gb ddr4 ram 2133mhz,  xeon cpu (12core/24thread) 3.3 ghz max (all core load 2.9ghz max) gigabyte nvidia gtx1060 OC 6gb VRAM,  orico nvme ssd,  walram ssd,  wd hdd,  sharkoon pc case,  led strip backlight, 1 gigabit network,  windows 11, 850W PSU) 
+
+
+5061696420636861726163746572733a20a2d204b6f646920746865207769636b6564a2d20547269737461722074686520646f7065
 
 (Lucky phone: Huawei P10)
 
