@@ -55,3 +55,5 @@ https://archive.org/details/ps3-games
 (Lucky phone: Huawei P10)
 
 (Lucky game console: Playstation 3 HEN mod (Webman, Artemis,  Seagete external HDD )
+
+Very cool: https://github.com/SpacehuhnTech/esp8266_deauther
