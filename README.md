@@ -57,3 +57,6 @@ https://archive.org/details/ps3-games
 (Lucky game console: Playstation 3 HEN mod (Webman, Artemis,  Seagete external HDD )
 
 Very cool: https://github.com/SpacehuhnTech/esp8266_deauther
+
+Cool social media: 
+https://www.minds.com/
