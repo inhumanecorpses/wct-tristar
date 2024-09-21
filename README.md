@@ -68,3 +68,7 @@ https://archive.org/
 
 Hun movies:
 https://filminvazio.cc/
+
+
+Pc games:
+https://skidrowcodexgames.com/
