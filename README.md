@@ -78,3 +78,6 @@ https://freemusicarchive.org/home
 
 General file share:
 https://1337x.to/
+
+Indie games:
+https://itch.io/
