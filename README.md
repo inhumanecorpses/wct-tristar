@@ -75,3 +75,6 @@ https://skidrowcodexgames.com/
 
 Music archive:
 https://freemusicarchive.org/home
+
+General file share:
+https://1337x.to/
