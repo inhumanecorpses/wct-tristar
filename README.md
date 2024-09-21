@@ -60,3 +60,7 @@ Very cool: https://github.com/SpacehuhnTech/esp8266_deauther
 
 Cool social media: 
 https://www.minds.com/
+
+
+Internet archive:
+https://archive.org/
